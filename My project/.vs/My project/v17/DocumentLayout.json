@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2024137052\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\2024137052\\my project\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\2024137052\\my project\\assets\\scripts\\ammopack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ammopack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\2024137052\\My project\\assets\\scripts\\healthpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\2024137052\\My project\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\Zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\2024137052\\My project\\assets\\scripts\\gundata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gundata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2024137016\\Assets\\Scenes\\My project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\PlayerShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\2024137052\\My project\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "C:\\2024137052\\My project\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:36:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthPack.cs",
+              "DocumentMoniker": "C:\\2024137052\\My project\\Assets\\Scripts\\HealthPack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthPack.cs",
+              "ToolTip": "C:\\2024137052\\My project\\Assets\\Scripts\\HealthPack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthPack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:47:54.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmmoPack.cs",
+              "DocumentMoniker": "C:\\2024137052\\My project\\Assets\\Scripts\\AmmoPack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AmmoPack.cs",
+              "ToolTip": "C:\\2024137052\\My project\\Assets\\Scripts\\AmmoPack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AmmoPack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:47:49.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\2024137052\\My project\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "C:\\2024137052\\My project\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T04:47:19.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GunData.cs",
+              "DocumentMoniker": "C:\\2024137052\\My project\\Assets\\Scripts\\GunData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GunData.cs",
+              "ToolTip": "C:\\2024137052\\My project\\Assets\\Scripts\\GunData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GunData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:05:18.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\Zombie.cs",
+              "RelativeDocumentMoniker": "..\\..\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\Zombie.cs",
+              "ToolTip": "C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\Zombie.cs",
+              "RelativeToolTip": "..\\..\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\Zombie.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:56:37.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerShooter.cs",
+              "DocumentMoniker": "C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\PlayerShooter.cs",
+              "RelativeDocumentMoniker": "..\\..\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\PlayerShooter.cs",
+              "ToolTip": "C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\PlayerShooter.cs",
+              "RelativeToolTip": "..\\..\\2024137016\\Assets\\Scenes\\My project\\Assets\\Zombie\\Assets\\Scripts\\PlayerShooter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T01:07:16.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\2024137016\\Assets\\Scenes\\My project\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\2024137016\\Assets\\Scenes\\My project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "..\\..\\2024137016\\Assets\\Scenes\\My project\\Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T02:09:47.359Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
